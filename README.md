@@ -1,8 +1,8 @@
-# 🪐 ENKI | Network & Cybersecurity Engineer
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzM2E5bXo5b3N4c3R5c3B5NjN5am15ZHpxOHo2b2N5bWZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/L18XBJ2e1f4xG/giphy.gif" width="35"> 🪐 ENKI | Linux Kernel Architect & Security Engineer
+# 🪐 ENKI | ICT & Network & Cybersecurity Engineer
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzM2E5bXo5b3N4c3R5c3B5NjN5am15ZHpxOHo2b2N5bWZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/L18XBJ2e1f4xG/giphy.gif" width="35"> 🪐 ENKI | ICT & Systems Architect
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%E2%98%A3+INITIALIZING+STEALTH+INTERFACE...;%E2%9A%A1+WELCOME+TO+THE+CORE;%F0%9F%9B%A1+NETWORKING+%26+CYBERSECURITY+ENGINEER;%F0%9F%90%A7+LINUX+KERNEL+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%E2%98%A3+INITIALIZING+STEALTH+INTERFACE...;%E2%9A%A1+WELCOME+TO+THE+CORE;%F0%9F%9B%A1+INFORMATION+%26+COMMUNICATION+TECHNOLOGY+ENGINEER;%F0%9F%90%A7+LINUX+KERNEL+ARCHITECT" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-## ⚡ TERMINAL_LOG: // سجل المحطة الطرفية 
+## ⚡ TERMINAL_LOG: // Profile Specifications
 
 ```text
 [+] Identity  : Enki
 [+] Status    : Active ICT Engineer & Security Researcher
 [+] Education : Middle Technical University (MTU) // ICT Department
 [+] Core OS   : Arch Linux / Debian / Kali Linux (Custom Kernel & Hyprland Ricing)
-[+] Expertise : Asynchronous Frameworks, Low-Level Packet Sniffing, Threat Mitigation
+[+] Expertise : Low-Level Systems, Asynchronous Frameworks, Network Auditing & Anonymity
 ```
 * 🎓 **Education:** Studying Information and Communication Technology (ICT) at Middle Technical University (MTU).
 * 🐧 **OS Preference:** Arch Linux, Debian, and Kali Linux user (Big fan of desktop customization & Hyprland ricing).
