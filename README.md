@@ -91,8 +91,19 @@ High-Throughput Asynchronous Telegram Bot API
 
 Comprehensive Academic Hub for Engineering Environments
 
-- A centralized community web hub customized for engineering classmates to quickly locate         essential software tools and academic assets.
+- A centralized community web hub customized for engineering classmates to quickly locate        essential software tools and academic assets.
+
 ---
+🎵 NOW_PLAYING // Live Spotify Stream
+<p align="center">
+<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0f1419&text_color=00FF66&icon_color=00FF66&bar_color=00FF66" alt="Enki's Spotify Status" width="380" />
+</a>
+</p>
+🎧 Click the card above to tune in. This node updates live with whatever track is running in the background.
+
+---
+
 ​📊 LIVE_METRICS // System Diagnostics
 
 <div align="center">
