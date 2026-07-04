@@ -28,6 +28,8 @@
 * 🛡️ **Focus:** Active developer in network auditing, security frameworks, and custom lightweight operating systems.
 * 🤖 **Fun Fact:** I love building generative terminal art (ASCII) and writing educational tech content.
 
+🛡️ Engineering Vision: Majoring in Information and Communication Technology with a strict focus on secure infrastructure, low-level architecture, and total control over the kernel layout. Passionate about engineering lightweight custom distributions, advanced automation pipelines, and building robust offensive security frameworks.
+
 ---
 
 ### 🌐 Let's Connect
@@ -44,49 +46,56 @@
 
 ### 🛠️ Core Technologies & Skills
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>💻 Programming & Backend</h4>
-      <ul>
-        <li>Python (Asynchronous development, automation)</li>
-        <li>C++ (System-level engineering, packet sniffing)</li>
-        <li>Visual Basic</li>
-        <li>HTML5 / CSS3 / JavaScript</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🛡️ Cybersecurity & Networking</h4>
-      <ul>
-        <li>Penetration Testing & Network Auditing</li>
-        <li>Intrusion Detection Systems (IDS)</li>
-        <li>OSINT & Threat Analysis</li>
-        <li>Network Protocols & Packet Sniffing</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>⚙️ Systems & DevOps</h4>
-      <ul>
-        <li>Linux Kernel Updates & System Administration</li>
-        <li>Docker Integration & Containerization</li>
-        <li>Wayland Protocol & Hyprland Customization</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🔌 Hardware & IoT</h4>
-      <ul>
-        <li>ESP32 & Arduino Hardware Engineering</li>
-        <li>Raspberry Pi Environments</li>
-        <li>Sensory Hardware Integration</li>
-      </ul>
-    </td>
-  </tr>
+​<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ Cybersecurity & Offensive Defense</h3>
+<p>
+<img src="https://img.shields.io/badge/Penetration_Testing-FF0000?style=flat&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Intrusion_Detection-FF7700?style=flat" />
+<img src="https://img.shields.io/badge/OSINT-Expert-yellow?style=flat" />
+</p>
+<ul>
+<li><b>Network Auditing:</b> Deep packet flow diagnostics and memory-level security exploitation analysis.</li>
+<li><b>Threat Hunting:</b> Developing active intrusion monitoring utilities to intercept anomalies and flag malicious fingerprints.</li>
+<li><b>Anonymity Engineering:</b> Architecting specialized Debian setups tailored for high performance and total network anonymity.</li>
+</ul>
+</td>
+<td width="50%" valign="top">
+<h3>💻 Systems & Core Languages</h3>
+<p>
+<img src="https://img.shields.io/badge/C-Low__Level-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-System-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Async-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Isolated-2496ED?style=flat&logo=docker&logoColor=white" />
+</p>
+<ul>
+<li><b>Supported Languages:</b> C, C++ (System Architecture), Python (Asynchronous Frameworks), Bash, Visual Basic, and Web Stack (HTML/CSS/JS).</li>
+<li><b>Environments:</b> Master fine-tuning custom Linux kernels and designing aesthetic Wayland protocol setups using Hyprland tiling window managers.</li>
+<li><b>Hardware & IoT:</b> ESP32 and Arduino firmware development integrated with sensory hardware communication lines.</li>
+</ul>
+</td>
+</tr>
 </table>
-
+ 
 ---
+⚙️ CURRENT_OPERATIONS // Ongoing Pipelines
+<p align="left">
+<b>🛡️ Cybersecurity Textbook (150 Pages)</b>
 
+<img src="https://geego.am/svg/progress/75?color=00FF66" alt="Progress 75%" /> <i>[75% Completed]</i>
+</p>
+<p align="left">
+<b>🐧 Custom Debian-based Anonymity OS</b>
+
+<img src="https://geego.am/svg/progress/45?color=00FF66" alt="Progress 45%" /> <i>[45% Completed]</i>
+</p>
+<p align="left">
+<b>🎨 Hyprland Workspace Ricing Layout</b>
+
+<img src="https://geego.am/svg/progress/90?color=00FF66" alt="Progress 90%" /> <i>[90% Completed]</i>
+</p>
+---
 ### 🚀 Featured Projects
 
 #### 🛡️ NetGuard_AI
