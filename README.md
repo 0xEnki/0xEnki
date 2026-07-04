@@ -96,7 +96,7 @@ Comprehensive Academic Hub for Engineering Environments
 ---
 🎵 NOW_PLAYING // Live Spotify Stream
 <p align="center">
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+<a href="https://open.spotify.com/user/31unyd6ae2rud5jgajwvnj3ljzn4">
 <img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0f1419&text_color=00FF66&icon_color=00FF66&bar_color=00FF66" alt="Enki's Spotify Status" width="380" />
 </a>
 </p>
