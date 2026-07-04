@@ -32,18 +32,6 @@
 
 ---
 
-### 🌐 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
 ### 🛠️ Core Technologies & Skills
 
 ​<table width="100%">
@@ -79,16 +67,25 @@
 </table>
  
 ---
-​🚀 DEPLOYED_PROJECTS // Production Ready
+​### 🚀 DEPLOYED_PROJECTS // Production Ready
 ​<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=NetGuard_AI&theme=tokyonight&show_owner=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Async-Media-Downloader-Bot&theme=tokyonight&show_owner=true" width="48%" />
 </p>
+
 ​💡 Note: The cards above dynamically fetch your live repository data. Below are the structural architectural summaries:
-​📁 NetGuard_AI: Captures and monitors live packets directly at the hardware layer leveraging C/C++, reporting anomalies through a hybrid Python engine.
-​📁 Async Media Downloader Bot: High-throughput non-blocking asynchronous Python Telegram bot, fully containerized via Docker microservices.
-​📁 Matrix Portfolio Hub: A centralized community web hub customized for engineering classmates to quickly locate essential academic assets.
-​📊 LIVE_METRICS // System Diagnostics
+
+​📁 NetGuard_AI:
+Captures and monitors live packets directly at the hardware layer leveraging C/C++, reporting anomalies through a hybrid Python engine.
+
+​📁 Async Media Downloader Bot:
+High-throughput non-blocking asynchronous Python Telegram bot, fully containerized via Docker microservices.
+
+​📁 Matrix Portfolio Hub:
+A centralized community web hub customized for engineering classmates to quickly locate essential academic assets.
+
+---
+​### 📊 LIVE_METRICS // System Diagnostics
 ​<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
@@ -99,7 +96,9 @@
 ​<p align="center">
 <img src="https://github-cube-sig.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="3D Contribution Cube Grid" width="80%" />
 </p>
-​📡 CONNECT_WITH_NODE // Communications Hub
+
+---
+​### 📡 CONNECT_WITH_NODE // Communications Hub
 ​<p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
