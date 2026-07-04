@@ -94,13 +94,23 @@ Comprehensive Academic Hub for Engineering Environments
 - A centralized community web hub customized for engineering classmates to quickly locate        essential software tools and academic assets.
 
 ---
-🎵 NOW_PLAYING // Live Spotify Stream
-<p align="center">
-<a href="https://open.spotify.com/user/31unyd6ae2rud5jgajwvnj3ljzn4">
-<img src="https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=0f1419&text_color=00FF66&icon_color=00FF66&bar_color=00FF66" alt="Enki's Spotify Status" width="380" />
-</a>
+
+⚙️ CURRENT_OPERATIONS // Ongoing Pipelines
+<p align="left">
+<b>🛡️ Cybersecurity Textbook (150 Pages)</b>
+
+<img src="https://geego.am/svg/progress/75?color=00FF66" alt="Progress 75%" /> <i>[75% Completed]</i>
 </p>
-🎧 Click the card above to tune in. This node updates live with whatever track is running in the background.
+<p align="left">
+<b>🐧 Custom Debian-based Anonymity OS</b>
+
+<img src="https://geego.am/svg/progress/45?color=00FF66" alt="Progress 45%" /> <i>[45% Completed]</i>
+</p>
+<p align="left">
+<b>🎨 Hyprland Workspace Ricing Layout</b>
+
+<img src="https://geego.am/svg/progress/90?color=00FF66" alt="Progress 90%" /> <i>[90% Completed]</i>
+</p>
 
 ---
 
@@ -110,6 +120,11 @@ Comprehensive Academic Hub for Engineering Environments
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xEnki&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+---
+💬 DYNAMIC_QUOTE // Refresh to Update
+<p align="center">
+<img src="https://readme-quotes-svg.vercel.app/api?type=quotes&theme=tokyonight&no-bg=true&no-frame=true" alt="Dynamic Tech Quotes" />
+</p>
 ---
 ​### 📡 CONNECT_WITH_NODE // Communications Hub
 ​<p align="center">
