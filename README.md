@@ -93,7 +93,16 @@ Comprehensive Academic Hub for Engineering Environments
 
 - A centralized community web hub customized for engineering classmates to quickly locate         essential software tools and academic assets.
 ---
-​
+​📊 LIVE_METRICS // System Diagnostics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="62%" />
+</p>
+
 ---
 ​### 📡 CONNECT_WITH_NODE // Communications Hub
 ​<p align="center">
@@ -105,6 +114,4 @@ Comprehensive Academic Hub for Engineering Environments
 </p>
 ​<p align="center">
 <img src="https://komarev.com/ghpvc/?username=0xEnki&label=SYSTEM_ACCESS_COUNT&color=00FF66&style=flat-square" alt="Visitor Counter" />
-</p>=tokyonight" alt="GitHub Streak" />
-</div>
 </p>
