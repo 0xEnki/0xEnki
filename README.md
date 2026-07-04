@@ -67,23 +67,27 @@
 </table>
  
 ---
-​### 🚀 DEPLOYED_PROJECTS // Production Ready
-​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=NetGuard_AI&theme=tokyonight&show_owner=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=Async-Media-Downloader-Bot&theme=tokyonight&show_owner=true" width="48%" />
-</p>
+​🚀 DEPLOYED_PROJECTS // Production Ready
+📁 NetGuard_AI ── 🛠️ C / C++ / Python
+Advanced Network Intrusion Detection & Analysis System
 
-​💡 Note: The cards above dynamically fetch your live repository data. Below are the structural architectural summaries:
+- Captures and monitors live packets (Packet Sniffing) directly at the hardware layer             leveraging the execution power of C and C++.
 
-​📁 NetGuard_AI:
-Captures and monitors live packets directly at the hardware layer leveraging C/C++, reporting anomalies through a hybrid Python engine.
+- Utilizes a hybrid system blueprint: a blazing-fast low-level processing engine tied into a      highly modular Python reporting script.
 
-​📁 Async Media Downloader Bot:
-High-throughput non-blocking asynchronous Python Telegram bot, fully containerized via Docker microservices.
+- Delivers real-time anomalies and zero-day threat exposure warnings.
 
-​📁 Matrix Portfolio Hub:
-A centralized community web hub customized for engineering classmates to quickly locate essential academic assets.
+📁 Async Media Downloader Bot ── 🤖 Python / Docker
+High-Throughput Asynchronous Telegram Bot API
 
+- Programmed entirely on non-blocking async structures in Python to effortlessly stream           hundreds of media URLs concurrently.
+
+- Fully containerized inside isolated Docker microservices backed by rigid exception handling     configurations.
+
+📁 Matrix Portfolio Hub ── 🌐 Web Interface
+Comprehensive Academic Hub for Engineering Environments
+
+- A centralized community web hub customized for engineering classmates to quickly locate         essential software tools and academic assets.
 ---
 ​### 📊 LIVE_METRICS // System Diagnostics
 ​<p align="center">
