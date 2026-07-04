@@ -68,7 +68,9 @@
  
 ---
 ​🚀 DEPLOYED_PROJECTS // Production Ready
+
 📁 NetGuard_AI ── 🛠️ C / C++ / Python
+
 Advanced Network Intrusion Detection & Analysis System
 
 - Captures and monitors live packets (Packet Sniffing) directly at the hardware layer             leveraging the execution power of C and C++.
@@ -78,6 +80,7 @@ Advanced Network Intrusion Detection & Analysis System
 - Delivers real-time anomalies and zero-day threat exposure warnings.
 
 📁 Async Media Downloader Bot ── 🤖 Python / Docker
+
 High-Throughput Asynchronous Telegram Bot API
 
 - Programmed entirely on non-blocking async structures in Python to effortlessly stream           hundreds of media URLs concurrently.
@@ -85,22 +88,12 @@ High-Throughput Asynchronous Telegram Bot API
 - Fully containerized inside isolated Docker microservices backed by rigid exception handling     configurations.
 
 📁 Matrix Portfolio Hub ── 🌐 Web Interface
+
 Comprehensive Academic Hub for Engineering Environments
 
 - A centralized community web hub customized for engineering classmates to quickly locate         essential software tools and academic assets.
 ---
-​### 📊 LIVE_METRICS // System Diagnostics
-​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-​<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="62%" />
-</p>
-​<p align="center">
-<img src="https://github-cube-sig.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="3D Contribution Cube Grid" width="80%" />
-</p>
-
+​
 ---
 ​### 📡 CONNECT_WITH_NODE // Communications Hub
 ​<p align="center">
@@ -111,6 +104,7 @@ Comprehensive Academic Hub for Engineering Environments
 <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 ​<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=SYSTEM_ACCESS_COUNT&color=00FF66&style=flat-square" alt="Visitor Counter" />
+<img src="https://komarev.com/ghpvc/?username=0xEnki&label=SYSTEM_ACCESS_COUNT&color=00FF66&style=flat-square" alt="Visitor Counter" />
 </p>=tokyonight" alt="GitHub Streak" />
 </div>
+</p>
