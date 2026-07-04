@@ -1,24 +1,28 @@
 # 🪐 ENKI | Network & Cybersecurity Engineer
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIzM2E5bXo5b3N4c3R5c3B5NjN5am15ZHpxOHo2b2N5bWZpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3RsPTE/L18XBJ2e1f4xG/giphy.gif" width="35"> 🪐 ENKI | Linux Kernel Architect & Security Engineer
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=INITIALIZING+INTERFACE...;WELCOME+TO+THE+CORE;NETWORKING+%26+CYBERSECURITY+ENGINEER;LINUX+KERNEL+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=800&lines=%E2%98%A3+INITIALIZING+STEALTH+INTERFACE...;%E2%9A%A1+WELCOME+TO+THE+CORE;%F0%9F%9B%A1+NETWORKING+%26+CYBERSECURITY+ENGINEER;%F0%9F%90%A7+LINUX+KERNEL+ARCHITECT" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Penetration_Testing-red?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Infrastructure-Arch_Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kernel-Linux_Expert-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Environment-Hyprland-purple?style=for-the-badge&logo=wayland&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ TERMINAL_LOG: // About Me
-```text
-[+] Status: Active ICT Engineer & Security Researcher
-[+] Alma Mater: Middle Technical University (MTU)
-[+] Core Philosophy: Secure by Design, Optimized by Kernel.
-[+] Specialization: Low-level system development, Network Anonymity, Packet Sniffing, and Automated Threat Intelligence.
-```
+## ⚡ TERMINAL_LOG: // سجل المحطة الطرفية 
 
+```text
+[+] Identity  : Enki
+[+] Status    : Active ICT Engineer & Security Researcher
+[+] Education : Middle Technical University (MTU) // ICT Department
+[+] Core OS   : Arch Linux / Debian / Kali Linux (Custom Kernel & Hyprland Ricing)
+[+] Expertise : Asynchronous Frameworks, Low-Level Packet Sniffing, Threat Mitigation
+```
 * 🎓 **Education:** Studying Information and Communication Technology (ICT) at Middle Technical University (MTU).
 * 🐧 **OS Preference:** Arch Linux, Debian, and Kali Linux user (Big fan of desktop customization & Hyprland ricing).
 * 🛡️ **Focus:** Active developer in network auditing, security frameworks, and custom lightweight operating systems.
