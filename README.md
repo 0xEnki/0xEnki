@@ -95,25 +95,6 @@ Comprehensive Academic Hub for Engineering Environments
 
 ---
 
-⚙️ CURRENT_OPERATIONS // Ongoing Pipelines
-<p align="left">
-<b>🛡️ Cybersecurity Textbook (150 Pages)</b>
-
-<img src="https://geego.am/svg/progress/75?color=00FF66" alt="Progress 75%" /> <i>[75% Completed]</i>
-</p>
-<p align="left">
-<b>🐧 Custom Debian-based Anonymity OS</b>
-
-<img src="https://geego.am/svg/progress/45?color=00FF66" alt="Progress 45%" /> <i>[45% Completed]</i>
-</p>
-<p align="left">
-<b>🎨 Hyprland Workspace Ricing Layout</b>
-
-<img src="https://geego.am/svg/progress/90?color=00FF66" alt="Progress 90%" /> <i>[90% Completed]</i>
-</p>
-
----
-
 ​📊 LIVE_METRICS // System Diagnostics
 
 <div align="center">
@@ -121,12 +102,10 @@ Comprehensive Academic Hub for Engineering Environments
 </div>
 
 ---
-💬 DYNAMIC_QUOTE // Refresh to Update
-<p align="center">
-<img src="https://readme-quotes-svg.vercel.app/api?type=quotes&theme=tokyonight&no-bg=true&no-frame=true" alt="Dynamic Tech Quotes" />
-</p>
----
+
 ​### 📡 CONNECT_WITH_NODE // Communications Hub
+
+
 ​<p align="center">
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
