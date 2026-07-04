@@ -79,33 +79,27 @@
 </table>
  
 ---
-⚙️ CURRENT_OPERATIONS // Ongoing Pipelines
-<p align="left">
-<b>🛡️ Cybersecurity Textbook (150 Pages)</b>
+###🚀 DEPLOYED_PROJECTS // Production Ready
+###📁 NetGuard_AI ── 🛠️ C / C++ / Python
+Advanced Network Intrusion Detection & Analysis System
 
-<img src="https://geego.am/svg/progress/75?color=00FF66" alt="Progress 75%" /> <i>[75% Completed]</i>
-</p>
-<p align="left">
-<b>🐧 Custom Debian-based Anonymity OS</b>
+Captures and monitors live packets (Packet Sniffing) directly at the hardware layer leveraging the execution power of C and C++.
 
-<img src="https://geego.am/svg/progress/45?color=00FF66" alt="Progress 45%" /> <i>[45% Completed]</i>
-</p>
-<p align="left">
-<b>🎨 Hyprland Workspace Ricing Layout</b>
+Utilizes a hybrid system blueprint: a blazing-fast low-level processing engine tied into a highly modular Python reporting script.
 
-<img src="https://geego.am/svg/progress/90?color=00FF66" alt="Progress 90%" /> <i>[90% Completed]</i>
-</p>
----
-### 🚀 Featured Projects
+Delivers real-time anomalies and zero-day threat exposure warnings.
 
-#### 🛡️ NetGuard_AI
-An advanced network intrusion detection and monitoring system integrated with Python and C++. Built to sniff packets, monitor bandwidth, and detect anomalous behavior in real-time.
+###📁 Async Media Downloader Bot ── 🤖 Python / Docker
+High-Throughput Asynchronous Telegram Bot API
 
-#### 📥 Asynchronous Media Downloader Bot
-A high-performance Telegram bot built using Python and Dockerized for seamless deployment. Efficiently processes media links with advanced error handling and asynchronous queuing.
+Programmed entirely on non-blocking async structures in Python to effortlessly stream hundreds of media URLs concurrently.
 
-#### 🌐 Matrix Portfolio Hub
-A customized web hub designed for engineering students to easily access academic resources, software utilities, and departmental tools.
+Fully containerized inside isolated Docker microservices backed by rigid exception handling configurations.
+
+###📁 Matrix Portfolio Hub ── 🌐 Web Interface
+Comprehensive Academic Hub for Engineering Environments
+
+A centralized community web hub customized for engineering classmates to quickly locate essential software tools and academic assets.
 
 ---
 
